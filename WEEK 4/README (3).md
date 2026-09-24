@@ -233,6 +233,6 @@ The project provides a foundation for more advanced **stock market analysis and 
 
 ## 👨‍💻 Author
 
-**Akash Raj T.**
+**Bhavesh G**
 
 BCA – Bachelor of Computer Applications
